@@ -7,7 +7,6 @@
 /config       emmc     /dev/block/bootdevice/by-name/config       flags=display=config
 /echarge      emmc     /dev/block/bootdevice/by-name/echarge      flags=display=echarge
 /splash       emmc     /dev/block/bootdevice/by-name/splash       flags=display=splash
-/carrier      ext4     /dev/block/bootdevice/by-name/carrier      flags=display=carrier
 /system       ext4     /dev/block/bootdevice/by-name/system       flags=display=system
 /cache        ext4     /dev/block/bootdevice/by-name/cache        flags=display=cache
 /data         ext4     /dev/block/bootdevice/by-name/userdata     flags=display=data
