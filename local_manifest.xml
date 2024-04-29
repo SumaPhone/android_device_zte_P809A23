@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="SumaPhone/android_device_zte_P809A23" path="device/zte/P809A23" remote="github" revision="twrp-5.1" />
+</manifest>
